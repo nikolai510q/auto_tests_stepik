@@ -1,2 +1,2 @@
-# auto_tests_stepik
-stepik — auto tests course
+# learn selenium & python
+Auto tests
